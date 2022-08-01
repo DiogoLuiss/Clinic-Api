@@ -2,10 +2,13 @@
 
 <img src="./src/assets/Docker.png"   width="600px"
 alt="Project-img">
-<br>
+
+<p>Container Img</p>
+
 <img src="./src/assets/DataBase.png"   width="600px"
 alt="Project-img">
 
+<p>Database Interface</p>
 
 <h2>project's goal</h2> 
 
