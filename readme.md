@@ -1,11 +1,11 @@
 <h1>Clinic-Api</h1>
 
-<img src="./src/assets/Docker.png"   width="600px"
+<img src="./src/assets/Docker.png"   
 alt="Project-img">
 
 <p>Container Img</p>
 
-<img src="./src/assets/DataBase.png"   width="600px"
+<img src="./src/assets/Database.png"   
 alt="Project-img">
 
 <p>Database Interface</p>
