@@ -1,5 +1,11 @@
 <h1>Clinic-Api</h1>
 
+<img src="./src/assets/Docker.png"   width="600px"
+alt="Project-img">
+<br>
+<img src="./src/assets/DataBase.png"   width="600px"
+alt="Project-img">
+
 
 <h2>project's goal</h2> 
 
